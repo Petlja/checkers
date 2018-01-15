@@ -2,14 +2,7 @@
     Checker template.
 */
 
-#include <cstdlib>
-#include <cstdio>
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <cmath>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 
 using namespace std;
 
