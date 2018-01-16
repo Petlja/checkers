@@ -1,5 +1,5 @@
 /*
-    Checker template.
+    [Old] Checker template.
 */
 
 #include <bits/stdc++.h>
